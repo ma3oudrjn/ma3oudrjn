@@ -2,7 +2,7 @@
 
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="coding cat" />
 
-  # 💫 About Me
+  #  About Me
 
   <p align="center">
     I am eager to solve challenging problems and strive to increase the productivity of everything within my reach.
